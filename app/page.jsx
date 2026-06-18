@@ -370,14 +370,14 @@ export default function Page() {
 
           <div className="mt-16 rounded-2xl border border-ink-200/60 bg-accent-soft/40 p-10 text-center">
             <div className="font-serif text-2xl sm:text-3xl text-ink-800 tracking-tight mb-7">
-              Questions or feedback on this tool?
+              See these avatars in action with your students.
             </div>
             <div className="flex flex-wrap justify-center gap-3">
               <a
-                href="mailto:spam.mail.harsh.gupta@gmail.com?subject=SimCare%20CACREP%20Alignment%20Mapper"
+                href="mailto:spam.mail.harsh.gupta@gmail.com?subject=Book%20a%20demo%3A%20SimCare%20CACREP%20Alignment%20Mapper&body=Hi%2C%0A%0AI%27d%20like%20to%20book%20a%2030-minute%20demo%20of%20the%20SimCare%20CACREP%20Alignment%20Mapper.%0A%0AMy%20preferred%20times%20(please%20include%20your%20time%20zone)%3A%0A1.%20%0A2.%20%0A3.%20%0A%0AThanks!"
                 className="rounded-lg px-6 py-3 text-[14px] font-medium text-ink-50 bg-ink-800 hover:bg-ink-700 transition-colors duration-300"
               >
-                Get in touch
+                Book a demo
               </a>
               <a
                 href="https://catalog.simcare.ai"
