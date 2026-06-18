@@ -1,5 +1,7 @@
 # SimCare CACREP Alignment Mapper
 
+**Live app: https://simcare-cacrep-mapper.vercel.app**
+
 A pre-sales discovery tool for counseling program directors. Paste or upload a syllabus → in ~10 seconds get a per-objective mapping to CACREP 2024 standards and the named SimCare avatars that teach them.
 
 Built as a portfolio proof-of-concept inspired by SimCare AI (YC S24). Independent project, not affiliated with SimCare AI.
