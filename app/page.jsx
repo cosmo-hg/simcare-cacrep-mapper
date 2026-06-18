@@ -374,7 +374,9 @@ export default function Page() {
             </div>
             <div className="flex flex-wrap justify-center gap-3">
               <a
-                href="mailto:spam.mail.harsh.gupta@gmail.com?subject=Book%20a%20demo%3A%20SimCare%20CACREP%20Alignment%20Mapper&body=Hi%2C%0A%0AI%27d%20like%20to%20book%20a%2030-minute%20demo%20of%20the%20SimCare%20CACREP%20Alignment%20Mapper.%0A%0AMy%20preferred%20times%20(please%20include%20your%20time%20zone)%3A%0A1.%20%0A2.%20%0A3.%20%0A%0AThanks!"
+                href="https://calendly.com/spam-mail-harsh-gupta/30min"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="rounded-lg px-6 py-3 text-[14px] font-medium text-ink-50 bg-ink-800 hover:bg-ink-700 transition-colors duration-300"
               >
                 Book a demo
